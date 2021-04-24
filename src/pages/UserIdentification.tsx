@@ -57,6 +57,7 @@ function handleSubmit() {
                     onChangeText={handleInputChange}
                     />
                     <View style={styles.footer}>
+                        
                     <Button 
                     title="Confirmar"
                     onPress={handleSubmit}
